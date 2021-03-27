@@ -1,0 +1,11 @@
+body
+{
+    overflow-x: hidden;
+}
+
+#productNameAlert
+{
+    opacity: 0;
+    transition: opacity 1s;
+
+}
